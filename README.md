@@ -5,8 +5,6 @@
 
 - 🌱 J'apprend actuellement **Flutter, Unity**
 
-- 👨‍💻 Mon portfolio est disponnible ici [https://lesneo.github.io/](https://lesneo.github.io/)
-
 - 📫 Comment me contacter ? **simon.regenwetter@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
