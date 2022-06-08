@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lesneo&show_icons=true&theme=dark&locale=fr" alt="lesneo" /></p>
 
-![CV](/chemin/access/image.jpg "CV")
+![CV](/CV.png "CV")
