@@ -1,9 +1,9 @@
 <h1 align="center">Bonjour 👋🏻, Je suis Simon Regenwetter (@Lesneo)</h1>
 <h3 align="center">Un jeune passionné d'informatique. Je suis actuellement en 1ère année d'un BUT Informatique à l'Université de Paris Cité.</h3>
 
-- 🔭 Je travaille actuellement sur [Première application](https://github.com/Lesneo/FirstApp)
+- 🔭 Je travaille actuellement sur 
 
-- 🌱 J'apprend actuellement **Flutter, Unity**
+- 🌱 J'apprend actuellement **Python, Unity**
 
 - 📫 Comment me contacter ? **simon.regenwetter@gmail.com**
 
