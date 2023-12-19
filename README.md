@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>    🌱 J'apprend actuellement Python, Django<br><br>    👨‍💻 Mon portfolio est disponnible ici https://simrgt.github.io/<br><br>    💬 Demandez moi pour du Python, Java<br><br>    📫 Comment me contacter ? simon.regenwetter@etu.u-paris.com<br>
+<br><br>    👨‍💻 Mon portfolio est disponnible ici https://simrgt.github.io/<br><br>    💬 Demandez moi pour du Python, Java<br><br>    📫 Comment me contacter ? simon.regenwetter@dauphine.eu<br>
 
 
 ## 🌐 Socials:
